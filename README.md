@@ -9,3 +9,5 @@ GDP is an indicator of how well the economy is doing. A drop in GDP indicates th
 similarly an increase in GDP suggests the economy is performing better. In this lab, you will examine how changes
 in GDP impact the unemployment rate. You will take screen shots of every step, you will share the notebook and the
 URL pointing to the dashboard.
+###### Source: Coursera 
+###### Course: Python for Data Science and AI by IBM
